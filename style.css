@@ -3,7 +3,7 @@ body{
     margin: 0;
     width: 100%;
 }
-#home {
+.home {
 background-color: #e1e6e3f1;
 height:700px;
 }
@@ -15,38 +15,41 @@ height:700px;
     border-radius: 50%;
 }
 */
-#second {
+.second {
     top: 700px;  
     height: 600px;
     margin-left: 50px;
     margin-right: 50px;   
 }
-#explore {
+.explore {
     background-color: #e1e6e3f1;
     top: 1300px;
     height: 600px;
     margin-left: 50px;
     margin-right: 50px;
 }
-#hotdeals{
+.hotdeals{
     top: 1900px;
     height: 600px;
     background-color: #C9ECB5;
     margin-left: 50px;
     margin-right: 50px; 
 }
-#contacts{
+.contacts{
     top: 2500px;
     height: 600px;
     background-color: #FFD77C;
     margin-left: 50px;
     margin-right: 50px; 
 }
-#footer{
+.footer{
     background-color: #e1e6e3f1;
     top: 3100px;
     height: 250px;
     margin-left: 50px;
     margin-right: 50px;
     margin-top: 50px; 
+}
+.contacts{
+    text-align: center;
 }
