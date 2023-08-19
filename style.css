@@ -2,19 +2,19 @@ body{
     padding: 0;
     margin: 0;
     width: 100%;
-    overflow: hidden;
 }
 #home {
 background-color: #e1e6e3f1;
 height:700px;
-
 }
-circle{
+/*
+#circle{
     background-color: #649549;
-    height: 1200px;
-    width: 1200px;
+    height: 800px;
+    width: 800px;
     border-radius: 50%;
 }
+*/
 #second {
     top: 700px;  
     height: 600px;
