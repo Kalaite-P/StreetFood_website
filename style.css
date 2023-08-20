@@ -51,6 +51,23 @@ position: relative;
     left: 30%;
     bottom: 30%;
 }
+.first{
+    position: absolute;
+    top: 8%;
+    padding-left: 10%;
+}
+.first span{
+    margin-right: 68px;
+    font-weight: bold;
+    
+}
+.home h3{
+    position: absolute;
+    top: 8%;
+    left: 44%;
+    font-size: 35px;
+    font-weight: bolder;
+}
 
 .circle2{
     position: absolute;
@@ -59,7 +76,18 @@ position: relative;
     width: 400px;
     height: 400px;
 }
-
+.circle3 {
+    position: relative;
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    background-color: rgba(255, 255, 255, 0);
+    bottom: 50%;
+    left: 50%;
+    border-style: dashed;
+    border-color: green green transparent green;
+    
+}
 .second {
     top: 700px;  
     height: 600px;
@@ -130,8 +158,8 @@ position: relative;
 .special-combo{
     position: relative;
     text-align: left;
-    left: 52%;
-    top: -60%;
+    left: 50%;
+    top: -65%;
 }
 .special-combo h1{
     font-size: 48px;
