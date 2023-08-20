@@ -23,6 +23,23 @@ height:700px;
     margin-left: 50px;
     margin-right: 50px;   
 }
+.second img{
+    height: 600px;
+    width: 65%;
+    float: left;
+}
+.eatingtext{
+    margin-left: 65%;
+    text-align: center;
+    width: 30%;
+    padding-top: 10%;
+    font-size: 20px;
+    line-height: 1.5;
+}
+.second h1{
+    font-size: 50px;
+    font-weight: lighter;
+}
 .explore {
     background-color: #e1e6e3f1;
     top: 1300px;
@@ -30,6 +47,16 @@ height:700px;
     margin-left: 50px;
     margin-right: 50px;
     text-align: center;
+}
+.explore h1{
+    line-height: 3;
+}
+.explore img{
+    height: 200px;
+    width: 200px;
+}
+.explore table{
+    border-right: 50px;
 }
 .hotdeals{
     top: 1900px;
