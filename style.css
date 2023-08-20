@@ -8,15 +8,25 @@ body{
 .home {
 background-color: #e1e6e3f1;
 height:700px;
+position: relative;
 }
-/*
-#circle{
-    background-color: #649549;
-    height: 800px;
-    width: 800px;
+.circle{
+    background-color: #a2cf8a;
+    height: 1200px;
+    width: 1200px;
     border-radius: 50%;
+    position: absolute;
+    left: 30%;
+    bottom: 30%;
 }
-*/
+
+.circle2{
+    position: absolute;
+    left: 66%;
+    bottom: 20%;
+    size: 180%;
+}
+
 .second {
     top: 700px;  
     height: 600px;
