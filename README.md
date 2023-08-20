@@ -1,7 +1,7 @@
 # StreetFood Website
 This is a simple project for reproducing [this](https://drive.google.com/file/d/1KrnXiEAZ0pnaQKvVd-o_8bkamkGd7AdV/view) given sample of a restaurant's website landing page. The instructions are to employ HTML and CSS concepts in the project.
 
-You can find the project application [here](kalaite-p.github.io/StreetFood_website/).
+You can find the project application [here](https://kalaite-p.github.io/StreetFood_website/).
 ## Features
 * Practice on various HTML Elements and tags.
 * Use of a custom-made stylesheet `main.css` to define the styles for the HTML page `index.html`.
