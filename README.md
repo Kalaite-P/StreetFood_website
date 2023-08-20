@@ -3,8 +3,8 @@ This is a simple project for reproducing [this](https://drive.google.com/file/d/
 
 You can find the project application [here](https://kalaite-p.github.io/StreetFood_website/).
 ## Features
-* Practice on various HTML Elements and tags.
-* Use of a custom-made stylesheet `main.css` to define the styles for the HTML page `index.html`.
+* Use of various concepts of HTML.
+* Use of a custom-made stylesheet `style.css` to define the styles for the HTML page `index.html`.
 
 -----
 ## Setup and Usage
