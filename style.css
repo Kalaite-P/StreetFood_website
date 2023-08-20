@@ -121,13 +121,23 @@ position: relative;
 }
 .explore h1{
     line-height: 3;
+    margin-bottom: 0;
 }
 .explore img{
-    height: 200px;
-    width: 200px;
+    height: 150px;
+    width: 150px;
 }
 .explore table{
-    border-right: 50px;
+    width: 100%;
+    height: 400px;
+    
+     
+}
+#menu{
+   width: 33.33%;
+   height: 200px;
+   border-style: dashed;
+   
 }
 .hotdeals{
     top: 1900px;
